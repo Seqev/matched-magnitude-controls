@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+title: >-
+  Matched-Magnitude Controls for Causal Testing of
+  Spectral Mechanisms in Attention
+message: >-
+  If you use this note, please cite it using the metadata below.
+type: software
+authors:
+  - given-names: Evgeny
+    family-names: Vyaltsev
+    orcid: 'https://orcid.org/0009-0004-3712-6798'
+  - given-names: Daniil
+    family-names: Vyaltsev
+abstract: >-
+  A short methodological note on causal testing of spectral
+  mechanistic claims in attention. It shows why an ablation of a
+  dominant spectral mode must control for perturbation magnitude,
+  gives a worked example in which a naive construction produced a
+  treatment perturbation 10-30x larger than its control, and
+  describes a three-part framework -- matched-magnitude
+  intervention, random-spectrum baseline, pre-registered outcome
+  criteria -- that converts the same hypothesis into a correct
+  pre-registered null.
+keywords:
+  - causal testing
+  - mechanistic interpretability
+  - spectral analysis
+  - attention
+  - ablation
+  - experimental methodology
+license: CC-BY-4.0
+version: 1.0.0
+date-released: '2026-05-17'
